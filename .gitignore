@@ -1,0 +1,14 @@
+#ignore the following folders
+
+results/
+.vscode/
+video/
+.ipynb_checkpoints/
+output/
+__pycache__/
+output/
+data/
+
+#ignore the following files
+
+*.pyc
